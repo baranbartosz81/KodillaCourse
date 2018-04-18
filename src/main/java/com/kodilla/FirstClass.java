@@ -3,7 +3,7 @@ package com.kodilla;
 public class FirstClass {
 
     public void someMethod() {
-        System.out.println("It works!");
+        System.out.println("It works quite fine!");
     }
 
 
